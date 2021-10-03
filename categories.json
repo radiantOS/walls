@@ -1,6 +1,18 @@
-[
-  {"name":"test",
+{
+  "1": {"name":"Food",
    "desc":"test",
    "url":"https://raw.githubusercontent.com/radiantOS/walls/main/test.json"
-  }
-]
+  },
+  "2": {"name":"Cats",
+   "desc":"test",
+   "url":"https://raw.githubusercontent.com/radiantOS/walls/main/test.json"
+  },
+  "3": {"name":"Dogs",
+   "desc":"test",
+   "url":"https://raw.githubusercontent.com/radiantOS/walls/main/test.json"
+  },
+  "4": {"name":"Texture",
+   "desc":"test",
+   "url":"https://raw.githubusercontent.com/radiantOS/walls/main/test.json"
+  },
+}
